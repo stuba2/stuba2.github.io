@@ -600,10 +600,22 @@ input, select, textarea {
 
 /* Icon */
 
+.headshot {
+	height: 12rem;
+	border-radius: 100%;
+	border: 1px solid white;
+	object-fit: cover;
+	position: relative;
+	top: calc(-6.5rem - 1px);
+}
+
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+		display: flex;
+		align-items: center;
+		justify-content: center;
 	}
 
 		.icon:before {
