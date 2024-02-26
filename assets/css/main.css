@@ -161,6 +161,10 @@ input, select, textarea {
 			border-bottom-color: transparent;
 		}
 
+	.contact-me {
+		margin-bottom: 1rem;
+	}
+
 	strong, b {
 		color: #ffffff;
 		font-weight: 600;
