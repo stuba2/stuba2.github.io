@@ -25,6 +25,10 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+	.contact-me {
+		margin-bottom: 1rem;
+	}
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
@@ -160,10 +164,6 @@ input, select, textarea {
 		a:hover {
 			border-bottom-color: transparent;
 		}
-
-	.contact-me {
-		margin-bottom: 1rem;
-	}
 
 	strong, b {
 		color: #ffffff;
